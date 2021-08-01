@@ -1,6 +1,6 @@
 {
+  "homepage":"https://raquelhn.github.io/shopping-cart-typescript",
   "name": "react-shopping-cart",
-  "home":"https://raquelhn.github.io/shopping-cart-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
